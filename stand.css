@@ -1,0 +1,106 @@
+body{
+	background: wheat;
+}
+.title {
+	font-size: 3em;
+	text-align: center;
+	font-weight: 800;
+}
+.subtitle{
+	font-size: 2em;
+	font-weight: 600;
+
+}
+.right-text {
+	display: inline-flex;
+	font-size: 1em;
+	text-align: justify;
+	font-weight: 100;
+}
+.link-wiki {
+	font-size: 2em;
+	color: black;
+	font-weight: 100;
+}
+table {
+	width: 40vw;
+	border-color: gray;
+}
+.table-text {
+	font-size: 0.92em;
+	font-weight: 600;
+}
+.text-left {
+	font-size: 1.15em;
+	letter-spacing: 0.0em;
+}
+#flex {
+	display: inline-flex;
+}
+.aside {
+	text-align: justify;
+	font-size: 1.25em;
+	font-weight: 400;
+}
+hr {
+	border-top: 3px solid black;
+	border-radius: 50px;
+}
+
+.end {
+	font-size: 2.1em;
+	text-align: right;
+}
+
+#image-1 {
+	height: 200px;
+	width: 45vw;
+	background-size: cover;
+	border-radius: 10px;
+
+	background-image: url(https://i.pinimg.com/originals/86/43/1b/86431b2680ddb5c279e58ccf93148fbd.png);
+}
+#image-2 {
+	height: 500px;
+	width: 40vw;
+	border-radius: 10px;
+	background-size: cover;
+	
+	background-image: url(https://i.pinimg.com/originals/29/f6/d0/29f6d0f17ce64839127d137d9132438c.jpg);
+}
+#image-3 {
+	height: 370px;
+	width: 40vw;
+	background-size: cover;
+	border-radius: 10px;
+	background-image: url(https://pm1.narvii.com/7362/2dcfd360ae7f196ce4837c0deb6a060841754edar1-520-832v2_hq.jpg);
+}
+#image-4 {
+	height: 650px;
+	width: 40vw;
+	background-size: cover;
+	border-radius: 10px;
+	background-image: url(https://i.pinimg.com/originals/40/82/72/40827248f4541790d022964e8ae4098a.png);
+
+}
+#image-5 {
+	height: 400px;
+	width: 40vw;
+	background-size: cover;
+	border-radius: 10px;
+	background-image: url(https://freepngimg.com/thumb/anime/118708-jojo-photos-bizarre-jojo-s-adventure.png);
+}
+#image-6 {
+	height: 420px;
+	width: 40vw;
+	background-size: cover;
+	
+	background-image: url(https://static.wikia.nocookie.net/jjba/images/d/dd/StickyFingers.png/revision/latest/scale-to-width-down/307?cb=20150428184345);
+}
+#image-7 {
+	height: 500px;
+	width: 35vw;
+	background-size: cover;
+	
+	background-image: url(https://rare-gallery.com/thumbs/1206140-JoJo039s-Bizarre-Adventure-JoJo039s-Bizarre-Adventure-Golden-Wind.jpg);
+}
